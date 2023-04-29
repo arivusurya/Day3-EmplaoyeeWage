@@ -9,7 +9,7 @@ namespace EmployeewageManagement{
 
         public int wage { get; set;}
 
-        public bool isparttime = false;
+        public int emphour { get; set;}
     }
 }
 
