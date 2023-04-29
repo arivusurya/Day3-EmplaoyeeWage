@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/bin/Debug/net7.0/day3-employeewage-oops
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/bin/Debug/net7.0/day3-employeewage-oops.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/bin/Debug/net7.0/day3-employeewage-oops.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/bin/Debug/net7.0/day3-employeewage-oops.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/bin/Debug/net7.0/day3-employeewage-oops.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/refint/day3-employeewage-oops.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/day3-employeewage-oops.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/day3-employeewage-oops/obj/Debug/net7.0/ref/day3-employeewage-oops.dll
