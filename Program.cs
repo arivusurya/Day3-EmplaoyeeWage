@@ -12,9 +12,11 @@ namespace EmployeewageManagement{
             Employee employee = new Employee();
             WageManagement obj = new WageManagement(employee);
 
-            obj.employeeScitch();      
-           
-            Console.WriteLine("Emplayee Wage : " + employee.wage);
+            obj.Conditionalwage();      
+
+            Console.WriteLine("Employee Total Working Hour:  " + employee.Totalworking_hour);
+            Console.WriteLine("Employee TotalWorking Days: "+ employee.total_working_day);
+            Console.WriteLine("Emplayee Wage : " + employee.monthly_wage);
             
         }
     }

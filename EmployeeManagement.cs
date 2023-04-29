@@ -7,6 +7,7 @@ namespace EmployeewageManagement{
 
     public class WageManagement{
         private int WagePErHour  =  20;
+        private int Maxworking_days = 20;
       
 
         Employee employee ;
@@ -55,6 +56,24 @@ namespace EmployeewageManagement{
                 }
 
                 calcutewage();
+            }
+
+            public void Monthlywage(){
+                for (int i = 1; i <= Maxworking_days;i++){
+                    employeeScitch();
+                    calcutewage();
+                    employee.monthly_wage += employee.wage; 
+                }
+            }
+
+            public void Conditionalwage(){
+                while(employee.Totalworking_hour <=100 && employee.total_working_day <20){
+                     employee.total_working_day ++;
+                    employeeScitch();
+                    calcutewage();
+                  employee.monthly_wage +=employee.wage; 
+                    employee.Totalworking_hour += employee.emphour; 
+                }
             }
 
 

@@ -10,6 +10,12 @@ namespace EmployeewageManagement{
         public int wage { get; set;}
 
         public int emphour { get; set;}
+
+        public int monthly_wage { get ;  set;}
+
+        public int Totalworking_hour { get; set;}
+
+        public int total_working_day { get; set;}
     }
 }
 
