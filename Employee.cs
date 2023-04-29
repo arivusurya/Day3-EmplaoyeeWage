@@ -8,6 +8,8 @@ namespace EmployeewageManagement{
         public bool EmployeePresent { get; set;} 
 
         public int wage { get; set;}
+
+        public bool isparttime = false;
     }
 }
 
