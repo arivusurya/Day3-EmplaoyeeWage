@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 namespace EmployeewageManagement{
     public class Employee{
         public bool EmployeePresent { get; set;} 
+
+        public int wage { get; set;}
     }
 }
 

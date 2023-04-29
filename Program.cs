@@ -11,13 +11,9 @@ namespace EmployeewageManagement{
         {
             Employee employee = new Employee();
             WageManagement obj = new WageManagement(employee);
-            obj.EmployeePresent();
+            obj.calcutewage();
+            Console.WriteLine("Emplayee Wage : " + employee.wage);
 
-            if(employee.EmployeePresent){
-                Console.WriteLine("Employee present");
-            }else{
-                Console.WriteLine("Employee not present");
-            }
         }
     }
 }
